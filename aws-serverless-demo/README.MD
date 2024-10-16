@@ -45,6 +45,7 @@ In the AWS Console you can search for all said resources typing ECR for instance
 2. Don't prepare presentation. You will be asked to just share the screen and share your code, show that it works, and share with the rest of the class:
 What caused problems? What took you the most time? General experience & any useful tricks used. 
 3. I would suggest doing the project in pairs, but triples are also allowed. 
+4. Two points will be assigned to those who will use AWS CDK or Azure CDK (Infrastructure as a code)
 
 
 
