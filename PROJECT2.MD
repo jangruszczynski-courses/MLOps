@@ -2,11 +2,11 @@
 
 The goal of this homework will be to familiarize yourself with Pytorch Lightning which serves as a tool for organization of all-things related to training (this is a semi-quote) and perform hyper-parameter optimization. 
 
-If it comes to Pytorch Lightning this will be one time, where I suggest choosing any other packages, as I feel there are no other alternatives, (at least for Pytorch). Of course I'm open to proving me wrong.
+If it comes to Pytorch Lightning this will be one time, where it is required to use this particular package without option to chose any other, as I feel there are no other alternatives, (at least for Pytorch). Of course I'm open to proving me wrong.
 
 ### Example flow to complete the homework:
 
-* Please prepare a training script of any chosen by model in Pytorch Lightning. To achieve that you need to create two modules: Data Module and Lightning Module 
+* Prepare a training script of any chosen model in Pytorch Lightning. To achieve that you need to create two modules: Data Module and Lightning Module 
 * Add model monitoring using built-in Pytorch Lighting callback for a chosen monitoring tool, for instance Wandb or MLFlow.
 * Validate Model Learning: Confirm the model does in-fact learn by comparison of training to validation loss curve.
 * Implement optimization of any chosen (or group of parameters) using a chosen optimization package. (I recommend Optuna or RayTune)
