@@ -20,7 +20,7 @@ Please note: Optuna offers a callback that automatically logs your run history t
 ### Additional organization information:
 * If possible, please don’t copy outright whole solutions, like the one linked below.
 * Please upload your code to a repository. 
-* Feel free to use models from any of your previous or feature (like Master's degree) projects.
+* Feel free to use models from any of your previous or future (like Master's degree) projects.
 * Deadline: Two week from now
 
 
