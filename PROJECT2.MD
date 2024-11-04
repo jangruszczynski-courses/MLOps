@@ -26,8 +26,8 @@ Please note: Optuna offers a callback that automatically logs your run history t
 
 
 ### Useful links:
-https://lightning.ai/lightning-ai/studios/image-segmentation-with-pytorch-lightning 
-https://lightning.ai/docs/pytorch/stable/api/lightning.pytorch.loggers.wandb.html 
-https://freedium.cfd/https://pub.aimind.so/optimizing-hyperparameters-with-optuna-a-hands-on-tutorial-bb8e2ffd1801  
-https://github.com/optuna/optuna-examples/blob/main/pytorch/pytorch_lightning_simple.py 
-https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/004_distributed.html 
+* https://lightning.ai/lightning-ai/studios/image-segmentation-with-pytorch-lightning 
+* https://lightning.ai/docs/pytorch/stable/api/lightning.pytorch.loggers.wandb.html 
+* https://freedium.cfd/https://pub.aimind.so/optimizing-hyperparameters-with-optuna-a-hands-on-tutorial-bb8e2ffd1801  
+* https://github.com/optuna/optuna-examples/blob/main/pytorch/pytorch_lightning_simple.py 
+* https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/004_distributed.html 
