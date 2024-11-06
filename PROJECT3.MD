@@ -39,3 +39,11 @@ During class, you will be asked to present:
 - Please upload your code to a repository. 
 - This homework can grant you up to **1 point maximum.**
 - **Deadline**: November 27, 2024
+
+
+## Useful links:
+- https://pytorch.org/tutorials/intermediate/pruning_tutorial.html 
+- https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html 
+- https://pytorch.org/docs/stable/quantization.html
+- https://onnx.ai/
+
