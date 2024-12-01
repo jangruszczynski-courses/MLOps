@@ -1,4 +1,4 @@
-# Project 3: Retrieval-Augmented Generation (RAG) System
+# Project 4: Retrieval-Augmented Generation (RAG) System
 
 ## Objective
 Create a Retrieval-Augmented Generation (RAG) system using an embedding model, a vector store, and an LLM (Large Language Model). (1 Point)
